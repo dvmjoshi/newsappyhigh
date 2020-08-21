@@ -29,7 +29,7 @@ need to fetch India specific news and same with US
 
 
 
-9 Admob  |    10 Admob disable from firebase console             
+9 Admob  |    10           
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
 ![](https://user-images.githubusercontent.com/24698014/90880216-c0260100-e3c5-11ea-8dd7-19f94ee2707e.png?raw=true)|![](https://user-images.githubusercontent.com/24698014/90880224-c320f180-e3c5-11ea-8bc6-5ed8ecaf8013.png?raw=true)|
 ## Happy learning. :+1:

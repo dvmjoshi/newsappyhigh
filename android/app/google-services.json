@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "992115911441",
+    "firebase_url": "https://newsappyhigh.firebaseio.com",
+    "project_id": "newsappyhigh",
+    "storage_bucket": "newsappyhigh.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992115911441:android:5d2b7ba3b979f6306fbab0",
+        "android_client_info": {
+          "package_name": "com.dvmjoshi.newsappyhigh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "992115911441-spbtjchi81htr8oprvgtvsvvi97on5ag.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB19bGLoa2t1_ZY-3gCMAvjpzESXLDKcZA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "992115911441-spbtjchi81htr8oprvgtvsvvi97on5ag.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

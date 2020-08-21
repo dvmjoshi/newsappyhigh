@@ -21,7 +21,7 @@ need to fetch India specific news and same with US
 
 1     |    2                |  3   |  4
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-![](https://user-images.githubusercontent.com/24698014/89000711-a9841100-d315-11ea-9920-4ed3575d6674.gif?raw=true)|![](https://user-images.githubusercontent.com/24698014/89000304-ab010980-d314-11ea-8acf-c27575975be7.png?raw=true)|![](https://user-images.githubusercontent.com/24698014/89000310-accacd00-d314-11ea-9136-34565310f9f9.png?raw=true)|![](https://user-images.githubusercontent.com/24698014/89000311-ad636380-d314-11ea-911e-8965ea64a46f.png?raw=true)|
+![](https://user-images.githubusercontent.com/24698014/89000711-a9841100-d315-11ea-9920-4ed3575d6674.gif?raw=true)|![](https://user-images.githubusercontent.com/24698014/90879481-9c15f000-e3c4-11ea-9bf8-3617a9c4640c.png?raw=true)|![](https://user-images.githubusercontent.com/24698014/90879504-a506c180-e3c4-11ea-83dc-d43054d2c60f.png?raw=true)|![](https://user-images.githubusercontent.com/24698014/90879516-a9cb7580-e3c4-11ea-9ddd-8589efafb0f5.png?raw=true)|![](https://user-images.githubusercontent.com/24698014/90879534-afc15680-e3c4-11ea-86e2-2848ad190d8d.png?raw=true)|
 
 ## Happy learning. :+1:
 If you found this project useful, then please consider giving it a :star: on Github and sharing it with your friends via social media.

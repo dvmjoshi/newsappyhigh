@@ -1,5 +1,5 @@
 class NewsKey {
-  static const String API_KEY = '97604a4cfe784fc7a9ae242ac28b2c87';
+  static const String API_KEY = 'fb9c93887dd84a74aee92261b48c9ff1';
   static const String TOP_HEADLINES_URL =
       'https://newsapi.org/v2/top-headlines?country=in&apiKey=$API_KEY';
   static String locationFor(String location) {

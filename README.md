@@ -1,8 +1,6 @@
 # News App (Appyhigh  Assignment)
 Create a sample news listing app with basic functionality using News
 API
-## Animations
-Learn animation basic components in flutter||
 ## Feature
 - [X] Activity should only be responsible for UI code
 - [X] ViewModel provides data required by the UI class

@@ -1,22 +1,37 @@
-# News appyhigh  Assignment
+# News App (Appyhigh  Assignment)
 Create a sample news listing app with basic functionality using News
 API
 ## Animations
 Learn animation basic components in flutter||
-
-## Description
- Activity should only be responsible for UI code
- ViewModel provides data required by the UI class
- Repository layer provides data to ViewModel classes
- Create an android app using Java or Kotlin or flutter
- Make a news feed app with country specific news from India and US
- Create an account in https://newsapi.org/ and use the api key to fetch
+## Feature
+- [X] Activity should only be responsible for UI code
+- [X] ViewModel provides data required by the UI class
+- [X] Repository layer provides data to ViewModel classes
+- [X] Create an android app using Java or Kotlin or flutter
+- [X] Make a news feed app with country specific news from India and US.
+- [X] Create an account in https://newsapi.org/ and use the api key to fetch
 news country wise
- The news should change depending on the user’s location. If it is India we
-need to fetch India specific news and same with US
- When clicked on any news it should open in the webview
- Add native ads from admob in the news feed
- Use firebase remote config to switch on and off the ads from console 
+- [X] When clicked on any news it should open in the webview
+- [X] Add native ads from admob in the news feed
+- [X] Use firebase remote config to switch on and off the ads from console 
+
+## Libaries used
+<details>
+     <summary> Used to make News app </summary>
+  hexcolor: ^1.0.4
+  avatar_glow: ^1.2.0
+  intl: ^0.16.1
+  cached_network_image: ^2.2.0+1
+  dio: ^3.0.10
+  provider: ^4.3.2
+  google_fonts: ^1.1.0
+  webview_flutter: ^0.3.19+9
+  firebase_admob: ^0.9.3+4
+  cloud_firestore: ^0.13.4+2
+  geolocator: ^5.3.2+2
+  url_launcher: ^5.1.0
+</details>
+
 ## Screenshots
 
 1     |    2                |  3   |  4
